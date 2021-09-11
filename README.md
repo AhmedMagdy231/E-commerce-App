@@ -1,4 +1,4 @@
-# e_commerce_abdalla
+# e_commerce
 
 A new Flutter application.
 
